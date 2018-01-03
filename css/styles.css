@@ -1,0 +1,23 @@
+body{
+  background-color: lightgreen;
+  text-align: center;
+}
+.flashy{
+  color:pink;
+}
+.best{
+  color: yellow;
+  font-size: 25px;
+}
+
+.worst{
+  color: brown;
+}
+
+a{
+  text-decoration: none;
+}
+
+li{
+  list-style-position: inside;
+}
